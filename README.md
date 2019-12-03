@@ -1,4 +1,4 @@
-
+[![Build Status](https://normseq.visualstudio.com/Pipelines-Java/_apis/build/status/normseq.pipelines-java?branchName=master)](https://normseq.visualstudio.com/Pipelines-Java/_build/latest?definitionId=6&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
